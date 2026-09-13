@@ -2,3 +2,7 @@
 *api_key*
 .env
 .env.*
+
+# Large videos split into chunks for pushing (see reassemble_videos.sh)
+CUR_AI_Course_Summer_2026/2-ml-course-materials_v2/ml-models-explained.webm
+CUR_AI_Course_Summer_2026/3-Deep-Learning/Deep_Learning_Explained.mp4
